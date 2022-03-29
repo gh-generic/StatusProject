@@ -1,0 +1,18 @@
+Project C:\Users\PMDAmico\Documents\ASEM\UNIQO\Projects\StatusProject\StatusProject.uniqo upgraded on 10-01-2022 22:53:15.367
+
+Upgraded modules:
+QPlatform.UI: from 42.2.0.0 to 42.3.0.0
+QPlatform.NativeUI: from 25.4.0.0 to 25.5.0.0
+
+No potential breaking changes detected
+Project C:\Users\PMDAmico\Documents\ASEM\UNIQO\Projects\StatusProject\StatusProject.uniqo upgraded on 29-03-2022 11:42:40.020
+
+Upgraded modules:
+QPlatform.NativeUI: from 25.5.0.0 to 26.3.0.0
+QPlatform.HMIProject: from 10.1.0.0 to 10.2.0.0
+QPlatform.Core: from 7.1.0.0 to 8.0.0.0
+QPlatform.UI: from 42.3.0.0 to 43.3.0.0
+
+No potential breaking changes detected
+
+
