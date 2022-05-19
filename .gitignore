@@ -5,3 +5,5 @@ ProjectFiles/NetSolution/Private
 ProjectFiles/UserDefinedModule.xml
 
 IDEVersion.txt
+
+ProjectFiles/NetSolution/*.references
